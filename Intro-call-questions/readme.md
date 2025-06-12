@@ -4,9 +4,9 @@
 
 ### 👋 Tell Me About Yourself
 
-Hi, I'm Nikitha Pulluri. I’m a Data Engineer with over four years of experience building scalable data pipelines and working with cloud platforms like AWS, GCP, and Azure. I recently completed my Master’s in Information Technology and Management from Florida Atlantic University, where I also led a real-time data lake project using AWS services.
+Hi, I'm Nikitha Pulluri. I’m a Data Engineer with over four years of experience building scalable data pipelines and working with cloud platforms like AWS. I recently completed my Master’s in Information Technology and Management from Florida Atlantic University, where I also led a real-time data lake project using AWS services.
 
-Currently, I’m working at Medical Mutual, where I helped develop a resource onboarding platform using Snowflake and Matillion, improving onboarding efficiency by 25%. I’ve also built ETL pipelines using Python and Airflow, and worked on optimizing Snowflake queries for better performance.
+Currently, I’m working at Medical Mutual, where I helped develop a resource onboarding platform using Snowflake, improving onboarding efficiency by 25%. I’ve also built ETL pipelines using Python and Airflow, and worked on optimizing Snowflake queries for better performance.
 
 Before that, I worked at HDFC Bank in India, where I designed Spark-based pipelines and automated data validation using Airflow and Python, which really strengthened my experience in big data processing and real-time analytics.
 
@@ -16,7 +16,7 @@ I enjoy solving data challenges and love working on cloud-native solutions. Outs
 
 ### 🛠 Explain About Your Recent Project
 
-Sure! In my most recent project at Medical Mutual, I worked on building a resource onboarding platform that helped automate and streamline how new team members are added to our systems. I developed data pipelines using Snowflake and Matillion, which made the whole process faster and more efficient—we saw about a 25% improvement in onboarding time.
+Sure! In my most recent project at Medical Mutual, I worked on building a resource onboarding platform that helped automate and streamline how new team members are added to our systems. I developed data pipelines using Snowflake, which made the whole process faster and more efficient—we saw about a 25% improvement in onboarding time.
 
 I also collaborated with engineering teams to build a user-friendly onboarding website and worked on optimizing Snowflake SQL queries, which improved performance by 30%. Most of the data workflows were handled through Python scripts, scheduled using Airflow, and we deployed everything in the GCP environment using tools like Azure DevOps and Git.
 
@@ -46,7 +46,7 @@ This role aligns perfectly with my goals because it gives me the opportunity to 
 
 I'm most comfortable with Python and SQL—I use them regularly for writing data pipelines, transformations, and queries. I’ve used Python with Airflow to automate workflows and schedule tasks, and SQL for building complex logic in Snowflake and Redshift.
 
-I also have strong experience with cloud platforms like GCP, AWS, and Azure. In my recent project, I built ETL pipelines in GCP using Snowflake and Matillion, and managed deployments with Azure DevOps.
+I also have strong experience with cloud platforms like GCP, AWS, and Azure. In my recent project, I built ETL pipelines in GCP using Snowflake, and managed deployments with Azure DevOps.
 
 Apart from that, I’ve worked with Spark for big data processing, DBT for data modeling, and Power BI to create dashboards and reports that help teams make better decisions. I enjoy using the right tool for the problem, and I’m always open to learning new ones when the project needs it.
 
@@ -56,7 +56,7 @@ Apart from that, I’ve worked with Spark for big data processing, DBT for data 
 
 I’ve had hands-on experience with all three major cloud platforms—AWS, Azure, and GCP—mostly through real-world projects.
 
-In my recent role, I worked primarily with GCP, where I built data pipelines using Snowflake and Matillion, scheduled jobs with Airflow, and handled deployments using Azure DevOps. I also worked with AWS services like S3, Glue, Redshift, and Lambda in a previous project to build a custom data lake and automate ingestion.
+In my recent role, I worked primarily with GCP, where I built data pipelines using Snowflake, scheduled jobs with Airflow, and handled deployments using Azure DevOps. I also worked with AWS services like S3, Glue, Redshift, and Lambda in a previous project to build a custom data lake and automate ingestion.
 
 I’m comfortable setting up cloud-based data workflows, managing permissions, and working with both batch and real-time processing. I really enjoy the flexibility these platforms offer and always try to follow best practices when it comes to scalability and cost-efficiency.
 
@@ -86,7 +86,7 @@ After the fix, I also set up monitoring and alerting to catch any mismatches in 
 
 ### Tell me about a time you had to collaborate with a cross-functional team to complete a project.
 
-In my recent project at Medical Mutual, I worked closely with engineering, HR, and business teams to build a resource onboarding dashboard. While I handled the backend data pipeline using Snowflake, Matillion, and Airflow, I also collaborated with frontend developers and business stakeholders to ensure the data was structured in a way that made sense for reporting and decision-making.
+In my recent project at Medical Mutual, I worked closely with engineering, HR, and business teams to build a resource onboarding dashboard. While I handled the backend data pipeline using Snowflake, and Airflow, I also collaborated with frontend developers and business stakeholders to ensure the data was structured in a way that made sense for reporting and decision-making.
 
 We held regular sync-ups to align on requirements and timelines. I found it rewarding to translate technical data issues into clear updates that non-technical teams could act on. That collaboration helped us launch the platform smoothly and cut onboarding time by 25%.
 
