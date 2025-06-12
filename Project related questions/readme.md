@@ -49,7 +49,6 @@
 
 ---
 
-### 📌 Pro Tip for Interviewers
 Feel free to explore my [GitHub Projects](https://github.com/) for hands-on demos and architecture diagrams related to this project.
 
 ---
