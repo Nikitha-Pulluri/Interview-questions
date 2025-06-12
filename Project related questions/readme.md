@@ -49,6 +49,21 @@
 
 ---
 
+### 10. What was the most rewarding aspect of this project?
+> Seeing teams get onboarded faster and hearing feedback about how much smoother the process was felt great. I liked how something I built directly made people’s work easier.
+
+---
+
+### 11. Did you face any failures in your pipeline? How did you handle them?
+> Yes, there were times when jobs failed due to schema drift or network issues. I built retry mechanisms in Airflow, added logging, and updated scripts to handle dynamic schema detection. This helped us recover gracefully without manual intervention.
+
+---
+
+### 12. How did you collaborate with non-technical stakeholders?
+> I created Power BI dashboards to show onboarding metrics and used simple visualizations during sprint reviews. I made sure to relate our technical progress to their business impact.
+
+---
+
 Feel free to explore my [GitHub Projects](https://github.com/) for hands-on demos and architecture diagrams related to this project.
 
 ---
